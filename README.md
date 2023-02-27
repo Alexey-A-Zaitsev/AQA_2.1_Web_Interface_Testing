@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/myqx7ye1umww7g62?svg=true)](https://ci.appveyor.com/project/Alexey-A-Zaitsev/aqa-2-1-web-interface-testing)
